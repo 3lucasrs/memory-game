@@ -43,7 +43,7 @@ $ cd memory-game
 
 The following tools were used in the construction of the project:
 
-#### **Front-end**  ([HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  +  [CSS]([https://expressjs.com/](https://developer.mozilla.org/en-US/docs/Web/CSS)https://developer.mozilla.org/en-US/docs/Web/CSS) + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
+#### **Front-end**  ([HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  +  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
 ---
 
